@@ -30,5 +30,5 @@ Financial institutions need to evaluate loan applications efficiently. This proj
 This model helps in automating loan approval decisions and improves decision-making efficiency for financial institutions.
 
 ## 📌 Author
-Minal Joseph  
+Alishba
 BS Computer Science, PUCIT
