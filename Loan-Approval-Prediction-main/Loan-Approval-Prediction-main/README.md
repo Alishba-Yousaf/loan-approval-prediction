@@ -21,14 +21,14 @@ Financial institutions need to evaluate loan applications efficiently. This proj
 
 ## 📊 Results
 - High model performance achieved on validation data  
-- Key features affecting prediction:
+- Important features influencing prediction:
   - Income-related ratios  
   - Employment history  
   - Credit history factors  
 
 ## 🚀 Outcome
-This model helps in automating loan approval decisions and improves decision-making efficiency for financial institutions.
+This project helps automate loan approval decisions and improves efficiency in financial decision-making.
 
 ## 📌 Author
-Alishba
+Alishba  
 BS Computer Science, PUCIT
