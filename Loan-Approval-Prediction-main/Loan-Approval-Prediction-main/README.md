@@ -27,8 +27,10 @@ Financial institutions need to evaluate loan applications efficiently. This proj
   - Credit history factors  
 
 ## 🚀 Outcome
-This project helps automate loan approval decisions and improves efficiency in financial decision-making.
+This project helps automate loan approval decisions and improves efficiency in loan approval decision-making
 
 ## 📌 Author
-Alishba  
+## 📌 Author
+
+**Alishba**  
 BS Computer Science, PUCIT
